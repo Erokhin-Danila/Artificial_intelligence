@@ -1,6 +1,6 @@
 # Программа для обучения нейрона
 
-![NEURON]()
+![NEURON](https://github.com/Erokhin-Danila/Artificial_intelligence/blob/master/NEURON/Neuron.gif)
 
 ## Описание
 Данная программа реализует формальную модель искусственного нейрона. Класс **Neuron** предназначен для:
